@@ -1,0 +1,210 @@
+[
+  {
+    "n": 1,
+    "id": "2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2303.17580",
+    "url": "https://arxiv.org/abs/2303.17580",
+    "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+    "date": "2023-03-30",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "https://arxiv.org/html/2406.05804",
+    "url": "https://arxiv.org/html/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "https://developer.nvidia.com/blog/introduction-to-llm-agents/",
+    "url": "https://developer.nvidia.com/blog/introduction-to-llm-agents/",
+    "title": "Introduction to LLM Agents",
+    "date": "2023-11-30",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "https://jads.app/blog/agentic-workflows-are-harder-than-you-think",
+    "url": "https://jads.app/blog/agentic-workflows-are-harder-than-you-think",
+    "title": "Agentic Workflows Are Harder Than You Think - Jeff Adler",
+    "date": "2024-10-11T19:30:38.000Z",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2402.02716",
+    "url": "https://arxiv.org/abs/2402.02716",
+    "title": "Understanding the planning of LLM agents: A survey",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2402.04253",
+    "url": "https://arxiv.org/abs/2402.04253",
+    "title": "AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls",
+    "date": "2024-02-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2406.14884",
+    "url": "https://huggingface.co/papers/2406.14884",
+    "title": "FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents",
+    "date": "2024-06-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2601.06112",
+    "url": "https://huggingface.co/papers/2601.06112",
+    "title": "ReliabilityBench: Evaluating LLM Agent Reliability Under Production-Like Stress Conditions",
+    "date": "2026-01-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2304.08244",
+    "url": "https://arxiv.org/abs/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/patil25a/patil25a.pdf",
+    "url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/patil25a/patil25a.pdf",
+    "title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2406.12045",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "title": "$τ$-bench: A Benchmark for Tool-Agent-User Interaction with Safety and Reliability Metrics",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "https://openbmb.github.io/ToolBench/",
+    "url": "https://openbmb.github.io/ToolBench/",
+    "title": "ToolEval Leaderboard",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "https://exa.ai/library/publication/1rwb8gwkl59",
+    "url": "https://exa.ai/library/publication/1rwb8gwkl59",
+    "title": "TRAJECT-Bench:A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "https://proceedings.iclr.cc/paper_files/paper/2025/file/4d13b2d99519c5415661dad44ab7edcd-Paper-Conference.pdf",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/4d13b2d99519c5415661dad44ab7edcd-Paper-Conference.pdf",
+    "title": "MTU-BENCH: A Multi-Granularity Tool-Use Benchmark for Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "https://aclanthology.org/anthology-files/pdf/findings/2024.findings-acl.664.pdf",
+    "url": "https://aclanthology.org/anthology-files/pdf/findings/2024.findings-acl.664.pdf",
+    "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "https://aclanthology.org/2026.findings-acl.1330.pdf",
+    "url": "https://aclanthology.org/2026.findings-acl.1330.pdf",
+    "title": "A Survey on Evaluation of LLM-based Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "https://srijan-open.github.io/agent-workflow-scaffolds-preprint/paper.pdf",
+    "url": "https://srijan-open.github.io/agent-workflow-scaffolds-preprint/paper.pdf",
+    "title": "When Do Agent Scaffolds Actually Help? Toward Compute-Normalized Evaluation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "https://www.langchain.com/blog/react-agent-benchmarking",
+    "url": "https://www.langchain.com/blog/react-agent-benchmarking",
+    "title": "Benchmarking Single Agent Performance",
+    "date": "2025-02-10T17:13:25.000Z",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "https://proceedings.neurips.cc/paper_files/paper/2024/file/97091a5177d8dc64b1da8bf3e1f6fb54-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/97091a5177d8dc64b1da8bf3e1f6fb54-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "http://arxiv.org/abs/2403.02691",
+    "url": "http://arxiv.org/abs/2403.02691",
+    "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+    "date": "2024-08-04",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "2507.05257",
+    "url": "https://huggingface.co/papers/2507.05257",
+    "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+    "date": "2025-07-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "https://huggingface.co/papers/2508.17281",
+    "url": "https://huggingface.co/papers/2508.17281",
+    "title": "From Language to Action: A Review of Large Language Models as Autonomous Agents and Tool Users",
+    "date": "2025-10-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "https://github.com/sierra-research/tau2-bench/blob/HEAD/docs/evaluation.md",
+    "url": "https://github.com/sierra-research/tau2-bench/blob/HEAD/docs/evaluation.md",
+    "title": "docs/evaluation.md",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

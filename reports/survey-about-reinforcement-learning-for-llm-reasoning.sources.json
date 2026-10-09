@@ -1,0 +1,178 @@
+[
+  {
+    "n": 1,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "https://fireworks.ai/blog/reinforcement-learning-with-verifiable-reward",
+    "url": "https://fireworks.ai/blog/reinforcement-learning-with-verifiable-reward",
+    "title": "Beyond Supervised Fine Tuning: How Reinforcement Learning Empowers AI with Minimal Labels",
+    "date": "2025-01-27",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "https://openai.com/index/learning-to-reason-with-llms/",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2503.11701",
+    "url": "https://arxiv.org/abs/2503.11701",
+    "title": "A Survey of Direct Preference Optimization",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2410.15595",
+    "url": "https://arxiv.org/abs/2410.15595",
+    "title": "A Comprehensive Survey of Direct Preference Optimization",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2402.10571",
+    "url": "https://arxiv.org/abs/2402.10571",
+    "title": "Direct Preference Optimization with an Offset",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2502.16182",
+    "url": "https://arxiv.org/abs/2502.16182",
+    "title": "IPO: Your Language Model is Secretly a Preference Classifier",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2402.14740",
+    "url": "https://arxiv.org/abs/2402.14740",
+    "title": "Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs",
+    "date": "2024-02-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let's Verify Step by Step",
+    "date": "2023-05-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2505.02686",
+    "url": "https://arxiv.org/abs/2505.02686",
+    "title": "Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2504.11536",
+    "url": "https://arxiv.org/abs/2504.11536",
+    "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2504.07086",
+    "url": "https://arxiv.org/abs/2504.07086",
+    "title": "A Sober Look at Progress in Language Model Reasoning - arXiv",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2410.01729",
+    "url": "https://huggingface.co/papers/2410.01729",
+    "title": "Evaluating Robustness of Reward Models for Mathematical Reasoning",
+    "date": "2024-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "https://www.proceedings.com/content/085/085713-0679open.pdf",
+    "url": "https://www.proceedings.com/content/085/085713-0679open.pdf",
+    "title": "MathArena: Evaluating LLMs on Uncontaminated Math Competitions",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "https://arxiv.org/html/2501.12948",
+    "url": "https://arxiv.org/html/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2026-01-04",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "https://proceedings.neurips.cc/paper_files/paper/2024/file/9246aa822579d9b29a140ecdac36ad60-Paper-Conference.pdf",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/9246aa822579d9b29a140ecdac36ad60-Paper-Conference.pdf",
+    "title": "AutoPSV: Automated Process-Supervised Verifier",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "https://aclanthology.org/2024.findings-emnlp.429.pdf",
+    "url": "https://aclanthology.org/2024.findings-emnlp.429.pdf",
+    "title": "Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a9d5c33e38442450f9781bd7bad3c81e-Paper-Conference.pdf",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a9d5c33e38442450f9781bd7bad3c81e-Paper-Conference.pdf",
+    "title": "Learning to reason under Off-Policy Guidance",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "https://rewardmath-rewardmath-project.static.hf.space/index.html",
+    "url": "https://rewardmath-rewardmath-project.static.hf.space/index.html",
+    "title": "Evaluating Robustness of Reward Models for Mathematical Reasoning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "https://arcprize.org/arc-agi/1",
+    "url": "https://arcprize.org/arc-agi/1",
+    "title": "ARC-AGI-1",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "https://blog.eleuther.ai/rlhf-and-rlaif-in-gpt-neox/",
+    "url": "https://blog.eleuther.ai/rlhf-and-rlaif-in-gpt-neox/",
+    "title": "RLHF and RLAIF in GPT-NeoX",
+    "date": "2024-10-10",
+    "source": "web"
+  }
+]

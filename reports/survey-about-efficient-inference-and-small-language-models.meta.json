@@ -1,0 +1,24 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "gpt-5.4-mini",
+  "elapsed_s": 168.6,
+  "subagent_calls": 8,
+  "tool_calls": {
+    "check_source_urls": 1,
+    "execute": 4,
+    "read_file": 6,
+    "task": 8,
+    "write_file": 2,
+    "write_todos": 1
+  },
+  "tokens": {
+    "input": 227103,
+    "output": 6219
+  },
+  "n_sources": 24,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

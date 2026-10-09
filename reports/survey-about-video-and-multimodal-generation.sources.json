@@ -1,0 +1,210 @@
+[
+  {
+    "n": 1,
+    "id": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "https://dl.acm.org/doi/full/10.1145/3696415",
+    "url": "https://dl.acm.org/doi/full/10.1145/3696415",
+    "title": "A Survey on Video Diffusion Models | ACM Computing Surveys",
+    "date": "2024-11-07",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2405.10674v1",
+    "url": "https://arxiv.org/abs/2405.10674v1",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "2024-05-17",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "title": "Video diffusion generation: comprehensive review and open problems",
+    "date": "2025-08-20",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "title": "Generative AI Video Evaluation: Survey of Metrics, Benchmarks, and Trustworthiness",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "https://dl.acm.org/doi/10.1145/3728633",
+    "url": "https://dl.acm.org/doi/10.1145/3728633",
+    "title": "AI-Generated Content (AIGC) for Various Data Modalities: A Survey",
+    "date": "2025-05-06",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "https://github.com/wentaoL86/Awesome-Human-Video-Generation/blob/d97da607/README.md",
+    "url": "https://github.com/wentaoL86/Awesome-Human-Video-Generation/blob/d97da607/README.md",
+    "title": "A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "https://vchitect.github.io/VBench-project/",
+    "url": "https://vchitect.github.io/VBench-project/",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "https://vchitect.github.io/VBench-2.0-project/",
+    "url": "https://vchitect.github.io/VBench-2.0-project/",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2411.13503",
+    "url": "https://arxiv.org/abs/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "https://artificialanalysis.ai/video/leaderboard/text-to-video",
+    "url": "https://artificialanalysis.ai/video/leaderboard/text-to-video",
+    "title": "AA-Video-T2V v2.0 Leaderboard - Top AI Video Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "https://github.com/yaojh18/MMMG",
+    "url": "https://github.com/yaojh18/MMMG",
+    "title": "MMMG",
+    "date": "2025-05-15T19:54:49.000Z",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "https://arxiv.org/html/2503.04641",
+    "url": "https://arxiv.org/html/2503.04641",
+    "title": "Simulating the Real World: A Unified Survey of Multimodal Generative Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical and experimental evaluations",
+    "date": "2026-03-19",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2405.10674",
+    "url": "https://arxiv.org/html/2405.10674",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2506.10016v3",
+    "url": "https://arxiv.org/abs/2506.10016v3",
+    "title": "A Survey of Generative Categories and Techniques in Multimodal Generative Models",
+    "date": "2025-05-29",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "https://arxiv.org/html/2402.17177",
+    "url": "https://arxiv.org/html/2402.17177",
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2411.02397",
+    "url": "https://huggingface.co/papers/2411.02397",
+    "title": "Adaptive Caching for Faster Video Generation with Diffusion Transformers",
+    "date": "2024-11-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2505.21036",
+    "url": "https://huggingface.co/papers/2505.21036",
+    "title": "RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy",
+    "date": "2025-05-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "https://arxiv.org/html/2405.19334v1",
+    "url": "https://arxiv.org/html/2405.19334v1",
+    "title": "LLMs Meet Multimodal Generation and Editing: A Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2401.09084",
+    "url": "https://huggingface.co/papers/2401.09084",
+    "title": "UniVG: Towards UNIfied-modal Video Generation",
+    "date": "2024-01-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "https://benchmarklist.com/benchmarks/vbench_video_generation/",
+    "url": "https://benchmarklist.com/benchmarks/vbench_video_generation/",
+    "title": "VBench Video Generation Leaderboard Benchmark Scores & AI Model Leaderboard | BenchmarkList",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2406.18522",
+    "url": "https://huggingface.co/papers/2406.18522",
+    "title": "ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation",
+    "date": "2024-06-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2601.22155",
+    "url": "https://huggingface.co/papers/2601.22155",
+    "title": "UEval: A Benchmark for Unified Multimodal Generation",
+    "date": "2026-01-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2403.05131v3",
+    "url": "https://arxiv.org/html/2403.05131v3",
+    "title": "Sora as a World Model? A Complete Survey on Text-to-Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "https://dl.acm.org/doi/full/10.1145/3656580",
+    "url": "https://dl.acm.org/doi/full/10.1145/3656580",
+    "title": "Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions",
+    "date": "2024-06-22",
+    "source": "web"
+  }
+]
